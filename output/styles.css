@@ -46,6 +46,11 @@ footer {
 	width:100px;
 	max-width:90%;
 }
+#embed2 {
+	max-width:	1000px;
+	width:		100%;
+	height:		1000px;
+}
 .iconos {
 	width: 500px;
 	max-width: 90%;
